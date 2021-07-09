@@ -1,5 +1,8 @@
 [TOC]
 
+# Metrics for the “Regular" and "Generalizability" tracks
+![](./single_agent_metric.png)
+
 # Python Scripts for the “Regular" and "Generalizability" tracks of the INTERPRET Competition
 
 * These scripts assist you to process the INTERACTION Dataset into segments that can be directly used for training, validation and test in the “Regular" and "Generalizability" tracks in the INTERPRET challenge.
