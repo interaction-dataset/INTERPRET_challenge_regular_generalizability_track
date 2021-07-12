@@ -1,6 +1,6 @@
 [TOC]
 
-# Metrics for the “Regular" and "Generalizability" tracks
+# Metrics for the “Regular" and "Generalizability" tracks of single agent prediction
 ![](./single_agent_metric.png)
 
 # Python Scripts for the “Regular" and "Generalizability" tracks of the INTERPRET Competition
