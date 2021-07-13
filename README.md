@@ -1,7 +1,9 @@
 [TOC]
 
-# Metrics for the “Regular" and "Generalizability" tracks of single agent prediction
+# Metrics for the “Regular" and "Generalizability" tracks of single agent prediction in the NeurIPS20 stage.
 ![](./single_agent_metric.png)
+
+Note that for metrics of the “Regular" and "Generalizability" tracks of the single agent prediction in the **ICAPS21/ICCV21** stage, please check https://github.com/interaction-dataset/INTERPRET_challenge_multi-agent.
 
 # Python Scripts for the “Regular" and "Generalizability" tracks of the INTERPRET Competition
 
